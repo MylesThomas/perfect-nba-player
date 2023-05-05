@@ -4,3 +4,5 @@ We are looking to build the perfect basketball player. To me, that's Lebron athl
 
 Use the .csv with the last 12 years of games for every player in the NBA.
 "# perfect-nba-player" 
+"# perfect-nba-player" 
+"# perfect-nba-player" 
